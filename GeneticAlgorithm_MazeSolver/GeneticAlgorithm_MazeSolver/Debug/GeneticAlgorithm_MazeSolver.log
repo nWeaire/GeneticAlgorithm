@@ -1,0 +1,18 @@
+﻿  GeneticAlgorithm.cpp
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(27): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(53): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(57): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(64): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(75): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(77): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(97): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(144): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(172): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(190): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(192): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(234): warning C4018: '<': signed/unsigned mismatch
+f:\geneticalgorithm_mazesolver\geneticalgorithm_mazesolver\geneticalgorithm.cpp(277): warning C4018: '<': signed/unsigned mismatch
+  GeneticAlgorithm_MazeSolver.vcxproj -> F:\GeneticAlgorithm_MazeSolver\Debug\GeneticAlgorithm_MazeSolver.dll
